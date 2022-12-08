@@ -1,0 +1,15 @@
+
+<div class="container mt-5">
+    <form #form="ngForm" (ngSubmit)="submit(form)">
+        <div class="form-group">
+          <label>Link da Foto:</label>
+          <input type="text" class="form-control"  placeholder="Adicionar o link da imagem" name="imagem" ngModel>
+        </div>
+    
+        <div class="form-group">
+          <label for="exampleInputPassword1">Título da Imagem:</label>
+          <input type="text" class="form-control" placeholder="Título da imagem" name="titulo" ngModel>
+        </div>        
+        <button type="submit" class="btn btn-danger">Cadastrar</button>
+    </form>
+</div>

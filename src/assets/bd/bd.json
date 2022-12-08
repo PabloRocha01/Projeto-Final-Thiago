@@ -1,0 +1,34 @@
+{
+  "imagens": [
+    {
+      "imagem": "https://imgnike-a.akamaihd.net/360x360/0244807T.jpg",
+      "titulo": "Women's Air Force 1 High  Casual",
+      "id": 1
+    },
+    {
+      "imagem": "https://imgnike-a.akamaihd.net/360x360/021832ID.jpg",
+      "titulo": "Tênis Nike Air Zoom Pegasus 39 ",
+      "id": 2
+    },
+    {
+      "imagem": "https://imgnike-a.akamaihd.net/360x360/0244860L.jpg",
+      "titulo": "Dunk Low  Casual",
+      "id": 3
+    },
+    {
+      "imagem": "https://imgnike-a.akamaihd.net/360x360/01113751.jpg",
+      "titulo": "Tênis Nike Air Force 1 \"07 ",
+      "id": 4
+    },
+    {
+      "imagem": "https://imgnike-a.akamaihd.net/360x360/016511IN.jpg",
+      "titulo": "Tênis Jordan 1 Mid ",
+      "id": 5
+    },
+    {
+      "imagem": "https://imgnike-a.akamaihd.net/360x360/02332651.jpg",
+      "titulo": "Tênis Nike Air Force 1 '07 LV8",
+      "id": 6
+    }
+  ]
+}
